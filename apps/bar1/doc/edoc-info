@@ -1,0 +1,3 @@
+%% encoding: UTF-8
+{application,bar1}.
+{modules,[bar1,bar1_app,bar1_sup]}.
